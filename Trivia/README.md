@@ -1,3 +1,7 @@
+Trivia Questions & Answers:
+
+All these can be found just using Google.
+
 1)
 This family of malware has gained notoriety after anti-virus and threat intelligence companies claimed that it was being used by several Chinese military groups.
 PlugX
@@ -19,3 +23,4 @@ On Windows, loading a library and having it's code run in another process is cal
 DLL injection
 
 6)
+I completed this one but forgot the grab the question. Will update.
