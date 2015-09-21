@@ -18,6 +18,9 @@ Step 4:
 For this part, I searched his handle on YouTube. Very first result, Yoshi.
 
 <img src='https://github.com/CYBR-AH/CSAW-CTF-Qualification-Round-2015/blob/master/Alexander%20Taylor/Step_4.png'>
+
+Now to test..
+
 <img src='https://github.com/CYBR-AH/CSAW-CTF-Qualification-Round-2015/blob/master/Alexander%20Taylor/Step_4a.png'>
 
 I downloaded Yoshi and opened with Notepad. Next challenge is to find the first cryptosystem Alex had to break at his first Def Con qualifier. I spent a lot of time roaming through 2011 and realized the answer was in 2010 Def Con Qualifiers (facepalm)
@@ -34,9 +37,12 @@ I've never done any Javascripting before so I pulled this into w3schools and got
 I just added the string as 'var s' and added 'window.alert(c)'.
 
 <img src='https://github.com/CYBR-AH/CSAW-CTF-Qualification-Round-2015/blob/master/Alexander%20Taylor/Step_5a.png'>
+
+Look at the popup!
 <img src='https://github.com/CYBR-AH/CSAW-CTF-Qualification-Round-2015/blob/master/Alexander%20Taylor/Step_5b.png'>
 
 
 Step 6:
 <img src='https://github.com/CYBR-AH/CSAW-CTF-Qualification-Round-2015/blob/master/Alexander%20Taylor/Step_6.png'>
+
 Flag was at fuzyll.com/csaw2015/they_see_me_rollin. flag{I_S3ARCH3D_HI6H_4ND_L0W_4ND_4LL_I_F0UND_W4S_TH1S_L0USY_FL4G}
