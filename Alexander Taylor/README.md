@@ -39,6 +39,7 @@ I just added the string as 'var s' and added 'window.alert(c)'.
 <img src='https://github.com/CYBR-AH/CSAW-CTF-Qualification-Round-2015/blob/master/Alexander%20Taylor/Step_5a.png'>
 
 Look at the popup!
+
 <img src='https://github.com/CYBR-AH/CSAW-CTF-Qualification-Round-2015/blob/master/Alexander%20Taylor/Step_5b.png'>
 
 
