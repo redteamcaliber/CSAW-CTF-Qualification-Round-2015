@@ -10,6 +10,6 @@ Shortcut: https://ctf.isis.poly.edu/static/archives/2013/competitors/index.html
 
 CRTL + F for find, 'flag{'
 
-<img src=''>
+<img src='https://github.com/CYBR-AH/CSAW-CTF-Qualification-Round-2015/blob/master/Recon/Eric%20Liang/Step_1.PNG'>
 
 flag{next_year_was_Team_Wartortle_right_guys?}
