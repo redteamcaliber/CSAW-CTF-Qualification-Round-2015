@@ -7,3 +7,6 @@ Oh boy. This might take a little time. I looked for an online substition solver 
 <img src='https://github.com/CYBR-AH/CSAW-CTF-Qualification-Round-2015/blob/master/Crypto/whiter0se/Step_2.png'>
 
 flag{But no, it was a short cut to something bigger. Something grander. Something beautiful. We've been focused on what's in front of us. But we haven't been looking at what's above us.}
+
+Tip:
+For challenges like this, use the website http://quipqiup.com. I plugged in the ciphertext and clicked 'Solve'. I had the answer in less than 5 second.
